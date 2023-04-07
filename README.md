@@ -13,4 +13,9 @@ A helpful list of resources (books, videos, articles, etc.) that I've stumbled u
 Playlist by Scott Hanselman
 
 ## Podcasts
+
 [Hanselminutes with Scott Hanselman](https://hanselminutes.com/)
+
+## Courses
+
+[Fireship](https://fireship.io/) Learn to Code Faster
