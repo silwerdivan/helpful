@@ -21,3 +21,7 @@ Playlist by Scott Hanselman
 ## Courses
 
 [Fireship](https://fireship.io/) Learn to Code Faster
+
+## Recipies
+
+[Jan Braai Lamb Curry Chops](https://braai.com/lamb-curry-chops/)
