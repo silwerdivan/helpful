@@ -12,6 +12,8 @@ A helpful list of resources (books, videos, articles, etc.) that I've stumbled u
 [Computer Stuff They Didn't Teach You](https://www.youtube.com/watch?v=gDXmTJakpT8&list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)
 Playlist by Scott Hanselman
 
+[TruthTV South Africa](https://www.youtube.com/@TruthTVSouthAfrica)
+
 ## Podcasts
 
 [Hanselminutes with Scott Hanselman](https://hanselminutes.com/)
