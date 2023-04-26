@@ -29,3 +29,8 @@ Playlist by Scott Hanselman
 ## Radio
 
 [Haven Today with Charles Morris - All About Jesus since 1934](https://haventoday.org/)
+
+## Sermons
+
+[The God Who Will Bring Good out of Bad (Romans 8:28) by Randy Alcorn](https://www.epm.org/resources/2010/Dec/14/god-who-will-bring-good-out-bad-romans-828-video/)
+[Getting to Know the Holy Spirit by David Wilkerson](https://www.youtube.com/watch?v=wuj6D3pqn6w)
