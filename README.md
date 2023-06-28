@@ -17,6 +17,7 @@ Playlist by Scott Hanselman
 ## Podcasts
 
 [Hanselminutes with Scott Hanselman](https://hanselminutes.com/)
+
 [Upstream - Colson Center](https://www.colsoncenter.org/upstream/)
 
 ## Courses
