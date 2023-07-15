@@ -20,6 +20,8 @@ Playlist by Scott Hanselman
 
 [Upstream - Colson Center](https://www.colsoncenter.org/upstream/)
 
+
+
 ## Courses
 
 [Fireship](https://fireship.io/) Learn to Code Faster
@@ -37,3 +39,8 @@ Playlist by Scott Hanselman
 [The God Who Will Bring Good out of Bad (Romans 8:28) by Randy Alcorn](https://www.epm.org/resources/2010/Dec/14/god-who-will-bring-good-out-bad-romans-828-video/)
 
 [Getting to Know the Holy Spirit by David Wilkerson](https://www.youtube.com/watch?v=wuj6D3pqn6w)
+
+## Audio Bible
+
+[Tailend of Romans 7 & 8 Recited](https://haventoday.org/player/index.php?podcastID=1689318000&podcastSeconds=0&podcastVolume=0.75&podcastSetting=tall&podcastPopup=false&podcastStatus=playing&postId=221784#)
+10,000 Miles With Paul. Series on Haven Today. Episode 5: Romans.
