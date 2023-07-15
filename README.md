@@ -20,8 +20,6 @@ Playlist by Scott Hanselman
 
 [Upstream - Colson Center](https://www.colsoncenter.org/upstream/)
 
-
-
 ## Courses
 
 [Fireship](https://fireship.io/) Learn to Code Faster
@@ -34,6 +32,8 @@ Playlist by Scott Hanselman
 
 [Haven Today with Charles Morris - All About Jesus since 1934](https://haventoday.org/)
 
+[KJLT - King Jesus Lives Today](http://kjlt.org/wordpress/)
+
 ## Sermons
 
 [The God Who Will Bring Good out of Bad (Romans 8:28) by Randy Alcorn](https://www.epm.org/resources/2010/Dec/14/god-who-will-bring-good-out-bad-romans-828-video/)
@@ -44,3 +44,5 @@ Playlist by Scott Hanselman
 
 [Tailend of Romans 7 & 8 Recited](https://haventoday.org/player/index.php?podcastID=1689318000&podcastSeconds=0&podcastVolume=0.75&podcastSetting=tall&podcastPopup=false&podcastStatus=playing&postId=221784#)
 10,000 Miles With Paul. Series on Haven Today. Episode 5: Romans.
+
+[Karen Heimbuch on Memorizing Revelation](https://haventoday.org/blog/karen-heimbuch-memorizing-revelation/)
