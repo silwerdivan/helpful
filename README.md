@@ -40,6 +40,8 @@ Playlist by Scott Hanselman
 
 [Getting to Know the Holy Spirit by David Wilkerson](https://www.youtube.com/watch?v=wuj6D3pqn6w)
 
+[How To Read Your Bible by Jon Courson](https://www.joncourson.com/playteaching/S3001)
+
 ## Audio Bible
 
 [Tailend of Romans 7 & 8 Recited](https://haventoday.org/player/index.php?podcastID=1689318000&podcastSeconds=0&podcastVolume=0.75&podcastSetting=tall&podcastPopup=false&podcastStatus=playing&postId=221784#)
