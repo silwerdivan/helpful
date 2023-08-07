@@ -28,6 +28,8 @@ Playlist by Scott Hanselman
 
 [Jan Braai Lamb Curry Chops](https://braai.com/lamb-curry-chops/)
 
+[2de plek wenner Elna Kruger se lamskerrie resep](https://www.netwerk24.com/sarie/kos/resepte/vleis/2de-plek-wenner-elna-kruger-se-lamskerrie-resep-20170914)
+
 ## Radio
 
 [Haven Today with Charles Morris - All About Jesus since 1934](https://haventoday.org/)
